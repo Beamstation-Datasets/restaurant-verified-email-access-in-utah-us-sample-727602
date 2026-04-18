@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c79a9540-1871-4dd4-9529-3d01554ada98",
+  "export_job_id": "11ddee3b-98e0-4ede-aeec-a538b7dd202f",
   "id_short": 727602,
-  "published_at": "2026-04-16T19:11:47Z",
+  "published_at": "2026-04-18T19:46:56Z",
   "repo_name": "restaurant-verified-email-access-in-utah-us-sample-727602",
   "sample_asset_name": "beamstation_727602_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/727602/beamstation_727602_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_records": 145,
   "sample_sha256": "e64bc8e4d92385ba5dec98656da650bdb2f770deb37f58915c8fa23e25530f9c",
   "sample_size_bytes": 587292,
-  "total_records": 914
+  "total_records": 1453
 }

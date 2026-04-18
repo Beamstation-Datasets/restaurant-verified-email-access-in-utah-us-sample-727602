@@ -6,17 +6,17 @@
   "config_category": "email",
   "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
   "config_name": "Restaurant Verified Email Access in Utah, US",
-  "export_job_id": "c79a9540-1871-4dd4-9529-3d01554ada98",
+  "export_job_id": "11ddee3b-98e0-4ede-aeec-a538b7dd202f",
   "github_org": "Beamstation-Datasets",
   "id_short": 727602,
   "location_name": "Utah",
   "location_type": "state",
   "repo_name": "restaurant-verified-email-access-in-utah-us-sample-727602",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/727602/beamstation_727602_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_pct": 15.86,
+  "sample_pct": 9.98,
   "sample_records": 145,
   "sample_sha256": "e64bc8e4d92385ba5dec98656da650bdb2f770deb37f58915c8fa23e25530f9c",
   "sample_size_bytes": 587292,
-  "total_records": 914,
-  "updated_at": "2026-04-01T01:40:23.361547+00:00"
+  "total_records": 1453,
+  "updated_at": "2026-04-15T04:00:04.846369+00:00"
 }

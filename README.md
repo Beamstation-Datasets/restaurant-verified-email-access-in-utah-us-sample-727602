@@ -9,9 +9,9 @@
 | Dataset ID | `727602` |
 | Location | Utah |
 | Category | Restaurants |
-| Full dataset size | 914 records |
-| Free sample size | 145 records (15.86%) |
-| Last export | 2026-04-01T01:40:23.361547+00:00 |
+| Full dataset size | 1,453 records |
+| Free sample size | 145 records (9.98%) |
+| Last export | 2026-04-15T04:00:04.846369+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-utah-us-sample-727602/releases/download/sample-latest/beamstation_727602_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample

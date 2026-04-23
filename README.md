@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Utah, US
 
-> Free BeamStation sample export with 145 rows and masked direct-contact fields.
+> Free BeamStation sample export with 108 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `727602` |
 | Location | Utah |
 | Category | Restaurants |
-| Full dataset size | 1,453 records |
-| Free sample size | 145 records (9.98%) |
-| Last export | 2026-04-15T04:00:04.846369+00:00 |
+| Full dataset size | 1,087 records |
+| Free sample size | 108 records (9.94%) |
+| Last export | 2026-04-22T09:28:32.685256+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-utah-us-sample-727602/releases/download/sample-latest/beamstation_727602_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
